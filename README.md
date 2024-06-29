@@ -3,7 +3,7 @@ Everyone says that it's fun to make website
 
 https://killeik.github.io/website/
 
-##Todo
+## Todo
 - [ ] movies/books tracking
     - [ ] rating
     - [ ] meta-info
