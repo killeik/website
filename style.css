@@ -1,0 +1,28 @@
+/*********************************
+ * LIGHT THEME
+ *********************************/
+:root { 
+}
+
+/*********************************
+ * DARK THEME (overrides)
+ *********************************/
+ @media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
